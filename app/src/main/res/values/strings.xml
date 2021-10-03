@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WassmaTest</string>
+    <string name="favorites">Favorites</string>
+    <string name="images">Images</string>
+    <string name="posts">Posts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorites_fragment">Hello favorites fragment</string>
+    <string name="images_fragment">Hello images fragment</string>
+    <string name="posts_fragment">Hello posts fragment</string>
+
+    <string name="posts_title">Title :</string>
+    <string name="posts_body">Body :</string>
+</resources>
